@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\Dam Game versi lainnya\Assets\Scripts\BoardManager.cs">
+    <Files>
+      <File FileName="..\Dam Game versi lainnya\Assets\Scripts\MenuUtama.cs" Line="36" Column="34" />
+      <File FileName="..\Dam Game versi lainnya\Assets\Scripts\BoardManager.cs" Line="126" Column="32" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

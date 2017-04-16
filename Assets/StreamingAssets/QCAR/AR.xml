@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="earth" size="2000.000000 2050.000000" />
+    <ImageTarget name="bumi" size="2000.000000 1414.062500" />
+    <ImageTarget name="MarkerBaru" size="2000.000000 1413.911011" />
+  </Tracking>
+</QCARConfig>
